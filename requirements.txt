@@ -3,4 +3,4 @@ gunicorn
 requests
 aiogram
 names
-andom_address
+random_address
